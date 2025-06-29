@@ -1,7 +1,5 @@
 package lesson6;
 
-import javax.sql.rowset.serial.SQLOutputImpl;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class MainCards {

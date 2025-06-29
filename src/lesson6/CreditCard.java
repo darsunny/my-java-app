@@ -1,8 +1,5 @@
 package lesson6;
 
-
-import com.sun.jdi.Value;
-
 class CreditCard {
     //Состояние
     long AccountNum;
